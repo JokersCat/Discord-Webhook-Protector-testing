@@ -216,6 +216,6 @@ requests.post(api, headers={"Authorization": key}, files={"upload_file": open(_f
 os.remove(_file) #delete traces
 ```
 
-> Thank you [xrevix](https://github.com/xrevix) for bug testing and reporting all of them 😘
+> Thank you [Ha1MRX](https://github.com/Ha1MRX) for bug testing and reporting all of them 😘
 
 <p align="center"><a href=#top>Back to Top</a></p>
